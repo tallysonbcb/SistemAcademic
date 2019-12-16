@@ -1,0 +1,29 @@
+Merge junção de codigo//
+
+git  init // Criar novo repositorio
+
+ssh -T git@github.com // Entrar no Git 
+
+Criar um repositorio Remoto no git
+
+git status 	// Mostra aterações feita no diretorio local
+ 
+git add . // adiciona todas as alterações
+
+git add nome.file // adiciona alteração arquivo especifico
+
+git commit -m "xxxxxx" // Commit 
+
+git log // mostra commit's
+
+git push --set-upstream origin master //  Enviar alterações de uma branch para o repositório remoto
+
+gti checkout -- // descartar  alterações realizada
+
+
+
+Revisão
+
+Editar
+Commitar
+Sincronizar com o repositorio remoto
